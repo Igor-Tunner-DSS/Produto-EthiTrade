@@ -1,11 +1,11 @@
 # EthiTrade
-Proposta de comércio e site HTML com base no resumo de empresa EthiTrade.
+Proposta de comércio e site do comércio com base no resumo de empresa EthiTrade.
 
 
 ## Instalação
 
 ### Meio 1: Arquivo .zip
-1. **Faça** download do arquivo .zip do projeto por meio do github (Código > Baixar Zip)
+1. Se você não tiver o arquivo .zip, **faça** download do arquivo .zip do projeto por meio do [github](https://github.com/Igor-Tunner-DSS/Produto-EthiTrade/edit/main/README.md) (Código > Baixar Zip)
 2. **Extraia** o arquivo .zip do projeto (botão direito > Abrir com... > (seu aplicativo de arquivos zip) > Extrair)
 
 ### Meio 2: Git
