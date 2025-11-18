@@ -18,7 +18,6 @@ Para visualizar o site, entre em .......... e abra o arquivo .............
 
 
 ## Geral
-...
 
 ### Tecnologias utilizadas
 
@@ -29,14 +28,18 @@ Nominatim 5.2.0
 ViaCEP
 >API gratuita de localização de cep 
 
-JavaScript (ES15)
-HTML (HTML5)
-CSS (CSS3)
+JavaScript (ES15), HTML (HTML5), CSS (CSS3)
 
-Infinity free
+Infinity Free
 >Serviço gratuíto de hospedagem
 
+Hostinger
+>Serviço de venda de domínios
 
+### Hospedagem
+Para fazer a hospedagem do site com o seu domínio customizado, entre em https://www.infinityfree.com e siga as instruções para hospedar um site.
+O Infinity Free oferece um plano gratuito, de 5GB de armazenamento e um servidor limitado, porém o plano Super Premium oferece armazenamento e largura de banda ilimitados.
+Para configurar um domínio customizado, entre no site da Hostinger (https://www.hostinger.com) e siga os passos para configurar seu domínio customizado. Para mais informações, entre em https://www.hostinger.com/br/tutoriais/
 
    
    
