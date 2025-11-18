@@ -20,7 +20,21 @@ Para visualizar o site, entre em .......... e abra o arquivo .............
 ## Geral
 ...
 
+### Tecnologias utilizadas
 
+
+Nominatim 5.2.0
+>API gratuita de procura de dados de geolocalização (OSM)
+
+ViaCEP
+>API gratuita de localização de cep 
+
+JavaScript (ES15)
+HTML (HTML5)
+CSS (CSS3)
+
+Infinity free
+>Serviço gratuíto de hospedagem
 
 
 
