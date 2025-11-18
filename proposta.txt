@@ -1,0 +1,11 @@
+Equipe: Alyf Furlan, Augusto Bastos e Igor Tunner
+
+Tema 13: Comércio Justo e Ético
+- Empresa: EthiTrade Connect
+- Slogan: "Comércio com Propósito, Conectando Produtores e Consumidores."
+- Paleta de Cores:
+	- Verde Oliva (#808000)
+	- Laranja Canela (#D2691E)
+	- Amarelo Gema (#FFD900)
+- API para Consumir Dados: API de Rastreabilidade de Cadeias de Suprimentos
+
