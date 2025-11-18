@@ -11,8 +11,16 @@ Proposta de comércio e site HTML com base no resumo de empresa EthiTrade.
 ### Meio 2: Git
 1. **Baixe** a versão mais recente do Git Bash ou Git CMD (disponível [no site oficial](https://git-scm.com/))
 2. **Abra** o console do Git
-3. **Execute** o comando `git clone https://github.com/Igor-Tunner-DSS/Produto-EthiTrade.git` no console)
+3. **Execute** o comando `git clone https://github.com/Igor-Tunner-DSS/Produto-EthiTrade.git` no console
 4. **Abra** a pasta do projeto onde foi efetuado o download
+
+Para visualizar o site, entre em .......... e abra o arquivo .............
+
+
+## Geral
+...
+
+
 
 
 
